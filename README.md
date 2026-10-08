@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | **SkillSwap** | Командная работа, React-компоненты, типизированные props, Storybook. В README выделен мой вклад | [Код и описание](https://github.com/Kondrati3vMaksim/SkillSwap_50_3) |
 | **Space Memory** | Игровая логика на JavaScript, DOM, таймеры, таблица результатов | [Код и описание](https://github.com/Kondrati3vMaksim/memory-game) · [Демо](https://kondrati3vmaksim.github.io/memory-game/) |
-| **Coffee House** | Адаптивная вёрстка, мобильное меню, каталог и расчёт цены в модальном окне | [Код и описание](https://github.com/Kondrati3vMaksim/rsschool-landing-page) |
+| **Coffee House** | Адаптивная вёрстка, мобильное меню, каталог и расчёт цены в модальном окне | [Код и описание](https://github.com/Kondrati3vMaksim/rsschool-landing-page) · [Демо](https://kondrati3vmaksim.github.io/rsschool-landing-page/) |
 
 [Полное портфолио: задачи, мой вклад, результаты и запуск](https://github.com/Kondrati3vMaksim/frontend-portfolio)
 

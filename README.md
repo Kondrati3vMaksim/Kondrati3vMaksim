@@ -1,29 +1,27 @@
 # Максим Кондратьев
-**Frontend-разработчик · Минск, Беларусь**
 
-С августа 2025 года системно занимаюсь веб-разработкой. Создаю адаптивные интерфейсы и интерактивные приложения; продолжаю изучать JavaScript, React и TypeScript.
+**Frontend-разработчик · Минск, Беларусь · Открыт к предложениям**
 
-Мне нравится превращать макет и пользовательскую задачу в работающий интерфейс. До перехода в разработку работал в ресторанной сфере и руководил командой: умею согласовывать задачи, принимать обратную связь и отвечать за результат.
+Создаю адаптивные интерфейсы и интерактивные приложения. JavaScript, HTML и CSS — основа моей практики; React и TypeScript использовал в командном учебном проекте.
 
-**Открыт к предложениям о работе.** Рассматриваю удалённый, офисный и гибридный формат.
-
-## Технологии и инструменты
-
-- **Основа практики:** JavaScript, HTML5, CSS3, Flexbox, Grid, адаптивная вёрстка, DOM, fetch, localStorage.
-- **Использовал в командном проекте:** React, TypeScript, SCSS / CSS Modules, Storybook.
-- **Инструменты:** Git, GitHub, Vite, Figma.
-- **Сейчас углубляю:** JavaScript, поток данных и состояние в React.
+[Написать в Telegram](https://t.me/Phoenixbelike) · [Портфолио и подробные кейсы](https://github.com/Kondrati3vMaksim/frontend-portfolio)
 
 ## Избранные проекты
 
-| Проект | Что показывает | Ссылки |
+| SkillSwap | Coffee House | Space Memory |
 | --- | --- | --- |
-| **SkillSwap** | Командная работа, React-компоненты, типизированные props, Storybook. В README выделен мой вклад | [Код и описание](https://github.com/Kondrati3vMaksim/SkillSwap_50_3) |
-| **Space Memory** | Игровая логика на JavaScript, DOM, таймеры, таблица результатов | [Код и описание](https://github.com/Kondrati3vMaksim/memory-game) · [Демо](https://kondrati3vmaksim.github.io/memory-game/) |
-| **Coffee House** | Адаптивная вёрстка, мобильное меню, каталог и расчёт цены в модальном окне | [Код и описание](https://github.com/Kondrati3vMaksim/rsschool-landing-page) · [Демо](https://kondrati3vmaksim.github.io/rsschool-landing-page/) |
+| [<img src="https://raw.githubusercontent.com/Kondrati3vMaksim/frontend-portfolio/main/assets/previews/skillswap.jpg" width="260" alt="SkillSwap — интерфейс учебного проекта">](https://kondrati3vmaksim.github.io/SkillSwap_50_3/) | [<img src="https://raw.githubusercontent.com/Kondrati3vMaksim/frontend-portfolio/main/assets/previews/coffee-house.jpg" width="260" alt="Coffee House — интерфейс учебного проекта">](https://kondrati3vmaksim.github.io/rsschool-landing-page/) | [<img src="https://raw.githubusercontent.com/Kondrati3vMaksim/frontend-portfolio/main/assets/previews/memory-game.jpg" width="260" alt="Space Memory — интерфейс учебного проекта">](https://kondrati3vmaksim.github.io/memory-game/) |
+| React и TypeScript, командные UI-компоненты | Адаптивная вёрстка и каталог | Игровая логика на JavaScript |
+| [Демо](https://kondrati3vmaksim.github.io/SkillSwap_50_3/) · [Код](https://github.com/Kondrati3vMaksim/SkillSwap_50_3) · [Мой вклад](https://github.com/Kondrati3vMaksim/frontend-portfolio/blob/main/projects/skillswap/README.md) | [Демо](https://kondrati3vmaksim.github.io/rsschool-landing-page/) · [Код](https://github.com/Kondrati3vMaksim/rsschool-landing-page) · [Мой вклад](https://github.com/Kondrati3vMaksim/frontend-portfolio/blob/main/projects/coffee-house/README.md) | [Демо](https://kondrati3vmaksim.github.io/memory-game/) · [Код](https://github.com/Kondrati3vMaksim/memory-game) · [Мой вклад](https://github.com/Kondrati3vMaksim/frontend-portfolio/blob/main/projects/memory-game/README.md) |
 
-[Полное портфолио: задачи, мой вклад, результаты и запуск](https://github.com/Kondrati3vMaksim/frontend-portfolio)
+## Технологии
 
-## Связаться
+- **Практика:** JavaScript, HTML5, CSS3, Flexbox, Grid, DOM, fetch, localStorage.
+- **Командный проект:** React, TypeScript, SCSS / CSS Modules, Storybook.
+- **Инструменты:** Git, GitHub, Vite, Figma.
 
-[Telegram — @Phoenixbelike](https://t.me/Phoenixbelike)
+## Обо мне
+
+С августа 2025 года системно занимаюсь веб-разработкой. Завершил обучение в Яндекс Практикуме, продолжаю учиться в RS School. До разработки работал в ресторанной сфере и руководил командой.
+
+Рассматриваю удалённый, офисный и гибридный формат. Сейчас углубляю JavaScript и работу с состоянием в React.
